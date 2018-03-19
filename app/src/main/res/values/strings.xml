@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Contextualize</string>
+    <string name="write_article">Write your article</string>
+    <string name="start_writing">Write here.....</string>
+    <string name="publish">Publish</string>
+    <string name="tag">Temporary tag</string>
 </resources>
